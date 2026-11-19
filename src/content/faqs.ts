@@ -12,7 +12,7 @@ export const homeFaqs = [
   {
     question: "Teslim süresi ne kadar?",
     answer:
-      "Süre, projenin kapsamına ve içeriğin hazır olup olmamasına bağlı. İçerik ve görseller hazırsa iş hızlı ilerliyor; takvimi teklifte birlikte netleştiriyoruz. [KULLANICI ONAYI: süre]",
+      "Süre, projenin kapsamına ve içeriğin hazır olup olmamasına bağlı. İçerik ve görseller hazırsa iş hızlı ilerliyor; takvimi teklifte birlikte netleştiriyoruz.",
   },
   {
     question: "Fiyata neler dahil?",
@@ -22,17 +22,17 @@ export const homeFaqs = [
   {
     question: "Teslimden sonra bakım yapıyor musunuz?",
     answer:
-      "Teslim sonrası bakım ve güncellemeler ayrı bir kapsam. Zorunlu bir bakım aboneliği yok; isterseniz bakım koşullarını ayrıca konuşuruz. [KULLANICI ONAYI: bakım koşulları]",
+      "Teslim sonrası bakım ve güncellemeler ayrı bir kapsam. Zorunlu bir bakım aboneliği yok; isterseniz bakım koşullarını ayrıca konuşuruz.",
   },
   {
     question: "Revizyon hakkım var mı?",
     answer:
-      "Tasarım aşamasında geri bildirimlerinizi topluyorum. Kaç revizyon turunun dahil olduğu teklifte yazılı olur; kapsamı aşan büyük değişiklikler için ayrı fiyat çıkarırım. [KULLANICI ONAYI: revizyon sayısı]",
+      "Tasarım aşamasında geri bildirimlerinizi topluyorum. Kaç revizyon turunun dahil olduğu teklifte yazılı olur; kapsamı aşan büyük değişiklikler için ayrı fiyat çıkarırım.",
   },
   {
     question: "Site Türkçe mi, İngilizce mi olacak?",
     answer:
-      "Site Türkçe hazırlanıyor. İngilizce bir sürüm gerekiyorsa bunu ayrı bir kapsam olarak değerlendiriyoruz; çeviri ve ikinci dil yapısı teklifte netleşir. [KULLANICI ONAYI: İngilizce site desteği]",
+      "Site Türkçe hazırlanıyor. İngilizce bir sürüm gerekiyorsa bunu ayrı bir kapsam olarak değerlendiriyoruz; çeviri ve ikinci dil yapısı teklifte netleşir.",
   },
   {
     question: "Kod ve içerik kime ait?",

@@ -68,12 +68,12 @@ export const services = [
     shortIntro:
       "Ürünlerinizi düzenli bir katalogda gösteren, sepet ve ödeme adımını ihtiyacınıza göre kurgulayan e-ticaret sitesi.",
     fullIntro:
-      "E-ticaret sitesinde önce ürünün bulunması, sonra satın alma adımının tıkanmaması gerekir. Ürünleri kategorilere ayırıyor; fotoğraf, fiyat ve açıklamaları okunabilir bir düzende yerleştiriyorum. Ödeme altyapısı ve sanal POS seçimini teklif aşamasında netleştiriyoruz. [KULLANICI ONAYI: ödeme altyapısı]",
+      "E-ticaret sitesinde önce ürünün bulunması, sonra satın alma adımının tıkanmaması gerekir. Ürünleri kategorilere ayırıyor; fotoğraf, fiyat ve açıklamaları okunabilir bir düzende yerleştiriyorum. Ödeme altyapısı ve sanal POS seçimini teklif aşamasında netleştiriyoruz.",
     scope: [
       "Ürün kataloğu ve ürün detay sayfaları",
       "Kategori ve arama yapısı",
       "Sepet akışı",
-      "Ödeme adımı kurulumu — [KULLANICI ONAYI: ödeme altyapısı]",
+      "Ödeme adımı kurulumu (sağlayıcı seçimi teklifte netleşir)",
       "Mobil uyumlu tasarım",
       "Temel SEO ayarları",
       "Teslim öncesi test ve yayına alma desteği",
@@ -83,7 +83,7 @@ export const services = [
       {
         question: "Ödeme altyapısı nasıl seçiliyor?",
         answer:
-          "Hangi altyapının işinize uyduğunu birlikte değerlendiriyoruz; komisyon ve masraflar sağlayıcıya göre değişiyor. Seçim ve kurulum teklifte netleşiyor. [KULLANICI ONAYI: ödeme altyapısı]",
+          "Hangi altyapının işinize uyduğunu birlikte değerlendiriyoruz; komisyon ve masraflar sağlayıcıya göre değişiyor. Seçim ve kurulum teklifte netleşiyor.",
       },
       {
         question: "Ürünleri kim ekliyor?",
