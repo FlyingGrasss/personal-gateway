@@ -43,11 +43,14 @@ export default function HakkimdaPage() {
 
       <div className="mt-8 max-w-2xl space-y-4 text-base leading-7 text-muted-foreground">
         <p>
-          Merhaba!{" "}
-          <span className="rounded bg-muted px-1.5 py-0.5 text-sm text-foreground">
-            [KULLANICI ONAYI: 2-3 cümle gerçek geçmiş — ne zamandır yazılımla
-            uğraşıyorsun, nasıl başladın.]
-          </span>
+          Merhaba! Yazılıma hobi olarak başladım; kendi kendime öğrenerek bugün
+          React, Next.js ve TypeScript ile çalışan siteler ve paneller
+          geliştiriyorum. Otel etkinlik platformu Multievent&apos;in yanı sıra
+          MUN konferansları için DADYAMUN ve MFLMUN başvuru ve yönetim
+          sistemlerini, ayrıca Python ile bir görsel kazıyıcı ve Flask ile
+          Türkçe ses olayları aracını geliştirdim. İzmir&apos;de Bornova
+          Anadolu Lisesi&apos;nde okuyorum; okulun yanı sıra müşteriler için
+          üretim ortamında çalışan siteler geliştirmeyi sürdürüyorum.
         </p>
         <p>
           GitHub&apos;da açıkta duran, canlı olarak kullanılan projeler üretmeyi

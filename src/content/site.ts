@@ -8,8 +8,8 @@ const FALLBACK_URL = "http://localhost:3000";
 export const site = {
   name: "Emre Bozkurt",
   url: process.env.NEXT_PUBLIC_SITE_URL ?? FALLBACK_URL,
-  email: "emre.bozqurt@gmail.com", // TODO: verify
-  whatsappNumber: "905453404925", // TODO: verify
+  email: "emreb.programming@gmail.com",
+  whatsappNumber: "905453404925",
   nav: [
     { label: "Ana Sayfa", href: "/" },
     { label: "Hizmetler", href: "/hizmetler" },
